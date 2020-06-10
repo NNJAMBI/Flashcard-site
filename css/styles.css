@@ -1,0 +1,25 @@
+body {
+    background-color: wheat;
+}
+
+h2 {
+    text-align: left;
+    color: black;
+}
+h3 {
+    text-align: center;
+    color: black;
+}
+.head {
+    padding: 150px;
+}
+
+textarea {
+    background: transparent;
+    width: 100%;
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
